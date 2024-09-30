@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="222cccc4-e43f-4e79-b40c-217b04383748" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HumanResourceMangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HumanResourceMangement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HuyHoangTran05"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HuyHoangTran05&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HuyHoangTran05/TH4.git",
-    "accountId": "0bd2e29c-c0cc-4a9f-a1a7-1f460c430c33"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HuyHoangTran05/TH4.git&quot;,
+    &quot;accountId&quot;: &quot;0bd2e29c-c0cc-4a9f-a1a7-1f460c430c33&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/HumanResourceMangement.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -99,6 +96,8 @@
       <workItem from="1727688758441" duration="145000" />
       <workItem from="1727689280112" duration="2098000" />
       <workItem from="1727711140752" duration="2113000" />
+      <workItem from="1727713460581" duration="8000" />
+      <workItem from="1727713510436" duration="1000" />
     </task>
     <servers />
   </component>

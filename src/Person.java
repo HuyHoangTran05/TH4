@@ -2,7 +2,7 @@ public class Person {
     protected String name;
     protected int yearOfBirth;
 
-    Person(){
+    Person() {
 
     }
 
